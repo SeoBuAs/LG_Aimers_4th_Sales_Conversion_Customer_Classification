@@ -1,4 +1,8 @@
 # LG_Aimers_4th_Hackathon
-LG_Aimers_4th_Hackathon_codes
+LG_Aimers_4th_Hackathon
 
-Public 40th / Private 102th
+### 🏆 Execution Results
+- **LG Aimers 4th Online Hackathon** 
+  - Public Rank: 40th (F1 : 0.7623)
+  - Private Rank: 102rd (F1 : 0.7482)
+  - Competitors: almost 800 teams
