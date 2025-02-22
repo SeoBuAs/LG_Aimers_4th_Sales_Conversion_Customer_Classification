@@ -39,4 +39,4 @@ LG_Aimers_4th_Hackathon
 - **LG Aimers 4th Online Hackathon** 
   - Public Rank: 40th (F1 : 0.7623)
   - Private Rank: 102rd (F1 : 0.7482)
-  - Competitors: almost 800 teams
+  - Competitors: Almost 800 teams
