@@ -1,4 +1,4 @@
-# LG_Aimers_4th_Hackathon
+# LG Aimers 4th Hackathon
 LG_Aimers_4th_Hackathon
 
 <h3> 👪 Members </h3>
