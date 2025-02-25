@@ -44,7 +44,7 @@ LG_Aimers_4th_Hackathon
 
 ---
 
-📆 Project Procedure
+### 📆 Project Procedure
 You can check the detailed progress on our team's Notion.
 
 https://sixth-drum-9ac.notion.site/LG-Aimers-4-fae749aa84c047699e35cb406dd4e6c2?pvs=4
