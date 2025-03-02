@@ -50,3 +50,37 @@ You can check the detailed progress on our team's Notion.
 https://sixth-drum-9ac.notion.site/LG-Aimers-4-fae749aa84c047699e35cb406dd4e6c2?pvs=4
 
 ---
+
+<h3> 📽️ Project Intro </h3>
+
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ccc; padding: 10px; text-align: center;">Subject</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">Introduce a strategic marketing method by selecting B2B customers who can be converted into sales customers.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Processing</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <ol style="margin: 0; padding-left: 20px;">
+          <li>Check what each column of the data represents and verify the distribution, missing values, and presence of outliers in each column.</li>
+          <li>After conducting data-specific preprocessing and imputing outliers, review the basic statistics, formulate analysis hypotheses for each group based on progression, and validate them using appropriate methods.</li>
+          <li>Create the optimal model through machine learning modeling.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Development Environment</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;"> <code>Tool</code>: Jupyter Notebook, VS Code </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Communication Environment</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;"> 
+        <code>Notion</code>: For role assignment in the project, brainstorming ideas, and recording meeting notes related to the project.<br>
+        <code>SLACK, Zoom, Discord, Offline</code>: For real-time remote meetings and in-person meetings.
+      </td>
+    </tr>
+  </tbody>
+</table>
