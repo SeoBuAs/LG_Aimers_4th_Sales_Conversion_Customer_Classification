@@ -78,7 +78,7 @@ LG_Aimers_4th_Hackathon
   </tbody>
 </table>
 
---=
+---
 
 <h3> ⚙️ Architecture </h3>
 
