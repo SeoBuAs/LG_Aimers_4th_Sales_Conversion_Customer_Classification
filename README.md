@@ -44,13 +44,6 @@ LG_Aimers_4th_Hackathon
 
 ---
 
-### 📆 Project Procedure
-You can check the detailed progress on our team's Notion.
-
-https://sixth-drum-9ac.notion.site/LG-Aimers-4-fae749aa84c047699e35cb406dd4e6c2?pvs=4
-
----
-
 <h3> 📽️ Project Intro </h3>
 
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
@@ -84,3 +77,53 @@ https://sixth-drum-9ac.notion.site/LG-Aimers-4-fae749aa84c047699e35cb406dd4e6c2?
     </tr>
   </tbody>
 </table>
+
+--=
+
+<h3> ⚙️ Architecture </h3>
+
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #ccc; padding: 10px; text-align: center;">Category</th>
+      <th style="border: 1px solid #ccc; padding: 10px; text-align: center;">Content</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <code>(Optuna +) Boosting Model</code>, <code>XGBoost</code>, <code>LightGBM</code>, <code>CatBoost</code>, <code>AutoML</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Data</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <code>Data</code>: Data provided by LG Aimers (Confidential)
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model Evaluation</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        Calculate the F1-score and select the model with the highest value.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center; vertical-align: top;"><strong>Model Application Method</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        For each model, compute the final public score and then apply Ensemble or Stacking using the model with the highest F1-score.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+### 📆 Project Procedure
+You can check the detailed progress on our team's Notion.
+
+https://sixth-drum-9ac.notion.site/LG-Aimers-4-fae749aa84c047699e35cb406dd4e6c2?pvs=4
+
+---
+
